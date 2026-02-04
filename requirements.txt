@@ -1,0 +1,4 @@
+python-binance
+pandas
+python-dotenv
+python-telegram-bot
