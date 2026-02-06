@@ -44,7 +44,7 @@ CPU_WORKERS = int(os.getenv("CPU_WORKERS", "4"))
 # Universe / 排除名單
 # ----------------------------
 EXCLUDED_SYMBOLS = [
-    "BTCDOMUSDT", "ALLUSDT", "XAUUSDT", "XAGUSDT", "USDCUSDT"
+    "BTCDOMUSDT", "ALLUSDT", "XAUUSDT", "XAGUSDT", "USDCUSDT","TSLAUSDT","INTCUSDT","HOODUSDT","MSTRUSDT","AMZNUSDT","CRCLUSDT","COINUSDT","PLTRUSDT","XPTUSDT","XPDUSDT"
 ]
 
 # ----------------------------
